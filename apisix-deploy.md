@@ -18,7 +18,8 @@ LuaJIT: A Just-In-Time Compiler for Lua.
 ### install dependencies
 
 ```
-brew install lua@5.1
+
+ brew install lua@5.1
 
  brew install openresty/brew/openresty
 

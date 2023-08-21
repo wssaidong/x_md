@@ -32,5 +32,5 @@ docker build -t centos7-with-tools .
 ## 运行
 
 ```
-docker run -it --rm centos7-with-tools
+docker run -it --rm -v ./tmp:/tmp   centos7-with-tools
 ```
